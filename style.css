@@ -1,0 +1,45 @@
+#footer
+{
+    text-align: center;
+    font-size: 25px;
+}
+
+body
+{
+    background-color: lightblue;
+}
+
+h1
+{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+h4
+{
+    font-family: monospace;
+    font-style: italic;
+}
+
+#camera
+{
+    width: 500px;
+    height: 400px;
+}
+
+img
+{
+    width: 500px;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 15px;
+}
+
+img:hover
+{
+    width: 550px;
+    padding: 5px;
+    border-width: 10px;
+    border-color: black;
+}
